@@ -4,4 +4,4 @@ Name: Yeap Yi Sheng James
 
 Matriculation Number: A0218234L
 
-[Link to deployed app](https://doom-and-gloom-cvwo2022.herokuapp.com)# cvwo_2022_final_submission
+[Link to deployed app](https://doom-and-gloom-cvwo2022.herokuapp.com)
